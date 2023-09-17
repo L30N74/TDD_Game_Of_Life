@@ -1,0 +1,12 @@
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\bin\Debug\net6.0\GameOfLife.LogicLayer.deps.json
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\bin\Debug\net6.0\GameOfLife.LogicLayer.dll
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\bin\Debug\net6.0\GameOfLife.LogicLayer.pdb
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\GameOfLife.LogicLayer.csproj.AssemblyReference.cache
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\GameOfLife.LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\GameOfLife.LogicLayer.AssemblyInfoInputs.cache
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\GameOfLife.LogicLayer.AssemblyInfo.cs
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\GameOfLife.LogicLayer.csproj.CoreCompileInputs.cache
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\GameOfLife.LogicLayer.dll
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\refint\GameOfLife.LogicLayer.dll
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\GameOfLife.LogicLayer.pdb
+F:\Projects\GameOfLife\GameOfLife.LogicLayer\obj\Debug\net6.0\ref\GameOfLife.LogicLayer.dll
